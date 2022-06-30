@@ -1,6 +1,6 @@
 name: sagar
 
-on:push
+on: push
 
 jobs:
   sagar:
